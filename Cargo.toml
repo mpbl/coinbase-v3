@@ -1,6 +1,6 @@
 [package]
 name = "coinbase-v3"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Matthieu Lefebvre (mpbl)"]
 description = "Coinbase v3 Advanced API client for Rust"
